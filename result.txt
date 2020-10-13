@@ -1,0 +1,921 @@
+"C:\\Users\\roman\\source\\repos\\helpLab13\\helpLab13\\labHeader.h"
+Blank lines: 4
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\softserve_task1\\softserve_task1\\softserve_it_academy_test1\\dynamically_sized_list.h"
+Blank lines: 5
+Commnet lines: 1
+Code lines: 18
+"C:\\Users\\roman\\source\\repos\\ASD_lab1\\asd_lab1\\main.cpp"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 44
+"C:\\Users\\roman\\source\\repos\\ASD_lab1\\BubbleSort.cpp"
+Blank lines: 3
+Commnet lines: 0
+Code lines: 18
+"C:\\Users\\roman\\source\\repos\\ASD_lab1\\BubbleSort.h"
+Blank lines: 2
+Commnet lines: 1
+Code lines: 4
+"C:\\Users\\roman\\source\\repos\\ASD_lab1\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\softserve_task1\\softserve_task1\\softserve_it_academy_test1\\main.c"
+Blank lines: 1
+Commnet lines: 4
+Code lines: 43
+"C:\\Users\\roman\\source\\repos\\helpLab13\\helpLab13\\Source.cpp"
+Blank lines: 17
+Commnet lines: 21
+Code lines: 45
+"C:\\Users\\roman\\source\\repos\\HelpTask\\HelpTask\\Header.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 0
+"C:\\Users\\roman\\source\\repos\\ASD_lab1\\mainwindow.cpp"
+Blank lines: 7
+Commnet lines: 0
+Code lines: 48
+"C:\\Users\\roman\\source\\repos\\ASD_lab1\\mainwindow.h"
+Blank lines: 5
+Commnet lines: 1
+Code lines: 15
+"C:\\Users\\roman\\source\\repos\\asd_lab_sorts_methods\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\softserve_task2\\AnyTypeUnitTests\\AnyTypeUnitTests.cpp"
+Blank lines: 6
+Commnet lines: 0
+Code lines: 96
+"C:\\Users\\roman\\source\\repos\\softserve_task2\\AnyTypeUnitTests\\pch.cpp"
+Blank lines: 2
+Commnet lines: 2
+Code lines: 1
+"C:\\Users\\roman\\source\\repos\\softserve_task2\\AnyTypeUnitTests\\pch.h"
+Blank lines: 3
+Commnet lines: 7
+Code lines: 2
+"C:\\Users\\roman\\source\\repos\\HelpTask\\HelpTask\\Source.c"
+Blank lines: 8
+Commnet lines: 0
+Code lines: 149
+"C:\\Users\\roman\\source\\repos\\asd_lab_sorts_methods\\mainwindow.cpp"
+Blank lines: 17
+Commnet lines: 0
+Code lines: 168
+"C:\\Users\\roman\\source\\repos\\asd_lab_sorts_methods\\mainwindow.h"
+Blank lines: 11
+Commnet lines: 1
+Code lines: 22
+"C:\\Users\\roman\\source\\repos\\softserve_task2\\softserve_task2\\AnyType.cpp"
+Blank lines: 6
+Commnet lines: 2
+Code lines: 95
+"C:\\Users\\roman\\source\\repos\\lab10\\lab10_1\\lab10_main.c"
+Blank lines: 10
+Commnet lines: 0
+Code lines: 96
+"C:\\Users\\roman\\source\\repos\\softserve_task2\\softserve_task2\\AnyType.h"
+Blank lines: 9
+Commnet lines: 0
+Code lines: 42
+"C:\\Users\\roman\\source\\repos\\softserve_task2\\softserve_task2\\main.cpp"
+Blank lines: 6
+Commnet lines: 2
+Code lines: 32
+"C:\\Users\\roman\\source\\repos\\asd_lab_sorts_methods\\SortMethods.cpp"
+Blank lines: 10
+Commnet lines: 0
+Code lines: 93
+"C:\\Users\\roman\\source\\repos\\asd_lab_sorts_methods\\SortMethods.h"
+Blank lines: 19
+Commnet lines: 1
+Code lines: 151
+"C:\\Users\\roman\\source\\repos\\softserve_task3\\softserve_task3\\Counter.cpp"
+Blank lines: 6
+Commnet lines: 4
+Code lines: 162
+"C:\\Users\\roman\\source\\repos\\softserve_task3\\softserve_task3\\Counter.h"
+Blank lines: 3
+Commnet lines: 0
+Code lines: 26
+"C:\\Users\\roman\\source\\repos\\build-ASD_lab1-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 12
+Commnet lines: 14
+Code lines: 73
+"C:\\Users\\roman\\source\\repos\\build-ASD_lab1-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\softserve_task3\\softserve_task3\\DirectoryData.cpp"
+Blank lines: 3
+Commnet lines: 0
+Code lines: 75
+"C:\\Users\\roman\\source\\repos\\lab10\\lab10_1\\lab10_source.c"
+Blank lines: 15
+Commnet lines: 7
+Code lines: 343
+"C:\\Users\\roman\\source\\repos\\softserve_task3\\softserve_task3\\DirectoryData.h"
+Blank lines: 3
+Commnet lines: 0
+Code lines: 27
+"C:\\Users\\roman\\source\\repos\\lab10\\lab10_1\\processStruct.h"
+Blank lines: 5
+Commnet lines: 1
+Code lines: 30
+"C:\\Users\\roman\\source\\repos\\build-ASD_lab1-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_mainwindow.h"
+Blank lines: 12
+Commnet lines: 6
+Code lines: 38
+"C:\\Users\\roman\\source\\repos\\softserve_task3\\softserve_task3\\DirectoryHandler.cpp"
+Blank lines: 4
+Commnet lines: 0
+Code lines: 63
+"C:\\Users\\roman\\source\\repos\\softserve_task3\\softserve_task3\\DirectoryHandler.h"
+Blank lines: 3
+Commnet lines: 0
+Code lines: 19
+"C:\\Users\\roman\\source\\repos\\lab6\\lab6\\lab6_1_main.c"
+Blank lines: 7
+Commnet lines: 0
+Code lines: 73
+"C:\\Users\\roman\\source\\repos\\lab6\\lab6(addition2)\\lab6_2_main.c"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 25
+"C:\\Users\\roman\\source\\repos\\softserve_task3\\softserve_task3\\task3_main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 33
+"C:\\Users\\roman\\source\\repos\\softsrve_review_1\\softsrve_review_1\\list.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 0
+"C:\\Users\\roman\\source\\repos\\lab6\\lab6(addition3)\\lab6_3_main.c"
+Blank lines: 7
+Commnet lines: 0
+Code lines: 18
+"C:\\Users\\roman\\source\\repos\\lab7(1)\\lab7_1_main.c"
+Blank lines: 13
+Commnet lines: 0
+Code lines: 36
+"C:\\Users\\roman\\source\\repos\\lab7(1)\\lab7_1_source.c"
+Blank lines: 6
+Commnet lines: 5
+Code lines: 48
+"C:\\Users\\roman\\source\\repos\\lab7(1)\\processArray.h"
+Blank lines: 3
+Commnet lines: 0
+Code lines: 10
+"C:\\Users\\roman\\source\\repos\\lab7(addition2)\\lab7_2_main.c"
+Blank lines: 4
+Commnet lines: 0
+Code lines: 34
+"C:\\Users\\roman\\source\\repos\\build-asd_lab_sorts_methods-Desktop_Qt_5_15_1_MinGW_64_bit-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 29
+Code lines: 105
+"C:\\Users\\roman\\source\\repos\\lab7(addition2)\\lab7_2_source.c"
+Blank lines: 3
+Commnet lines: 0
+Code lines: 61
+"C:\\Users\\roman\\source\\repos\\lab7(addition2)\\processExpression_Lab7_2.h"
+Blank lines: 1
+Commnet lines: 0
+Code lines: 11
+"C:\\Users\\roman\\source\\repos\\softsrve_review_1\\softsrve_review_1\\main.c"
+Blank lines: 39
+Commnet lines: 26
+Code lines: 182
+"C:\\Users\\roman\\source\\repos\\softsrve_review_1\\softsrve_review_1\\test.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 0
+"C:\\Users\\roman\\source\\repos\\sudoku_solver\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\lab7(addition3)\\lab7_3_main.c"
+Blank lines: 8
+Commnet lines: 0
+Code lines: 48
+"C:\\Users\\roman\\source\\repos\\lab7(addition3)\\lab7_3_source.c"
+Blank lines: 3
+Commnet lines: 0
+Code lines: 61
+"C:\\Users\\roman\\source\\repos\\lab7(addition3)\\variationsFunc.h"
+Blank lines: 4
+Commnet lines: 0
+Code lines: 7
+"C:\\Users\\roman\\source\\repos\\sudoku_solver\\mainwindow.cpp"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 74
+"C:\\Users\\roman\\source\\repos\\sudoku_solver\\mainwindow.h"
+Blank lines: 5
+Commnet lines: 1
+Code lines: 17
+"C:\\Users\\roman\\source\\repos\\sudoku_solver\\valuesoftable.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 4
+"C:\\Users\\roman\\source\\repos\\lab8_1\\lab8\\lab8_1_main.c"
+Blank lines: 6
+Commnet lines: 0
+Code lines: 48
+"C:\\Users\\roman\\source\\repos\\sudoku_solver\\valuesoftable.h"
+Blank lines: 3
+Commnet lines: 1
+Code lines: 7
+"C:\\Users\\roman\\source\\repos\\lab8_1\\lab8\\lab8_1_source.c"
+Blank lines: 7
+Commnet lines: 0
+Code lines: 107
+"C:\\Users\\roman\\source\\repos\\term2_chysMetod_lab1\\term2_chysMetod_lab1\\chysMetod_lab1.cpp"
+Blank lines: 6
+Commnet lines: 0
+Code lines: 83
+"C:\\Users\\roman\\source\\repos\\lab8_1\\lab8\\processStruct.h"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 25
+"C:\\Users\\roman\\source\\repos\\build-asd_lab_sorts_methods-Desktop_Qt_5_15_1_MinGW_64_bit-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 394
+"C:\\Users\\roman\\source\\repos\\lab9\\lab9_1\\lab9_1_main.c"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 54
+"C:\\Users\\roman\\source\\repos\\term2_chysMetod_lab1\\term2_chysMetod_lab1_Add2\\term2_chysMetod_lab1_Add2.cpp"
+Blank lines: 4
+Commnet lines: 0
+Code lines: 84
+"C:\\Users\\roman\\source\\repos\\lab9\\lab9_1\\lab9_1_source.c"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 41
+"C:\\Users\\roman\\source\\repos\\lab9\\lab9_1\\processArray.h"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 8
+"C:\\Users\\roman\\source\\repos\\lab9_addTask\\lab10_addTask\\addTask_header.h"
+Blank lines: 1
+Commnet lines: 0
+Code lines: 4
+"C:\\Users\\roman\\source\\repos\\build-asd_lab_sorts_methods-Desktop_Qt_5_15_1_MinGW_64_bit-Debug\\ui_mainwindow.h"
+Blank lines: 32
+Commnet lines: 6
+Code lines: 113
+"C:\\Users\\roman\\source\\repos\\lab9_addTask\\lab10_addTask\\addTask_main.c"
+Blank lines: 3
+Commnet lines: 1
+Code lines: 45
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab10\\term2_chysMet_lab10\\main.cpp"
+Blank lines: 8
+Commnet lines: 0
+Code lines: 118
+"C:\\Users\\roman\\source\\repos\\lab9_addTask\\lab10_addTask\\addTask_source.c"
+Blank lines: 1
+Commnet lines: 4
+Code lines: 3
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab2\\term2_chysMet_lab2\\add1.cpp"
+Blank lines: 6
+Commnet lines: 0
+Code lines: 79
+"C:\\Users\\roman\\source\\repos\\merge_sort\\merge_sort\\Source.cpp"
+Blank lines: 6
+Commnet lines: 14
+Code lines: 54
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab2\\term2_chysMet_lab2_add2\\add2.cpp"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 79
+"C:\\Users\\roman\\source\\repos\\newTask\\newTask\\header.h"
+Blank lines: 3
+Commnet lines: 0
+Code lines: 8
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab3\\term2_chysMet_lab3\\chysMet_lab3.h"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 11
+"C:\\Users\\roman\\source\\repos\\build-asd_lab_sorts_methods-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 25
+Code lines: 99
+"C:\\Users\\roman\\source\\repos\\build-asd_lab_sorts_methods-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\newTask\\newTask\\main_newTask.c"
+Blank lines: 18
+Commnet lines: 47
+Code lines: 34
+"C:\\Users\\roman\\source\\repos\\newTask\\newTask\\newTaskSource.c"
+Blank lines: 7
+Commnet lines: 0
+Code lines: 47
+"C:\\Users\\roman\\source\\repos\\build-asd_lab_sorts_methods-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug\\ui_mainwindow.h"
+Blank lines: 24
+Commnet lines: 6
+Code lines: 81
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab3\\term2_chysMet_lab3\\main.cpp"
+Blank lines: 19
+Commnet lines: 0
+Code lines: 206
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab4\\term2_chysMet_lab4\\chysMet_lab4.h"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\OOP_KR\\OOP_KR\\Source.cpp"
+Blank lines: 6
+Commnet lines: 1
+Code lines: 88
+"C:\\Users\\roman\\source\\repos\\OOP_KR2_var4\\OOP_KR2_var4\\main.cpp"
+Blank lines: 6
+Commnet lines: 0
+Code lines: 54
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab10-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 27
+Code lines: 101
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab4\\term2_chysMet_lab4\\main.cpp"
+Blank lines: 12
+Commnet lines: 4
+Code lines: 213
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab10-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab5\\term2_chysMet_lab5\\Header.h"
+Blank lines: 4
+Commnet lines: 0
+Code lines: 8
+"C:\\Users\\roman\\source\\repos\\OOP_KR_var2\\OOP_KR_var2\\main.cpp"
+Blank lines: 11
+Commnet lines: 0
+Code lines: 177
+"C:\\Users\\roman\\source\\repos\\OOP_lab10\\complex.cpp"
+Blank lines: 7
+Commnet lines: 0
+Code lines: 69
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab5\\term2_chysMet_lab5\\main.cpp"
+Blank lines: 4
+Commnet lines: 2
+Code lines: 180
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab10-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_mainwindow.h"
+Blank lines: 36
+Commnet lines: 6
+Code lines: 132
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab6\\term2_chysMet_lab6\\Header.h"
+Blank lines: 4
+Commnet lines: 0
+Code lines: 8
+"C:\\Users\\roman\\source\\repos\\OOP_lab10\\complex.h"
+Blank lines: 4
+Commnet lines: 1
+Code lines: 21
+"C:\\Users\\roman\\source\\repos\\OOP_lab10\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\OOP_lab10\\mainwindow.cpp"
+Blank lines: 7
+Commnet lines: 0
+Code lines: 44
+"C:\\Users\\roman\\source\\repos\\OOP_lab10\\mainwindow.h"
+Blank lines: 11
+Commnet lines: 1
+Code lines: 21
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab6\\term2_chysMet_lab6\\main.cpp"
+Blank lines: 7
+Commnet lines: 3
+Code lines: 149
+"C:\\Users\\roman\\source\\repos\\OOP_lab10\\myarray.cpp"
+Blank lines: 15
+Commnet lines: 4
+Code lines: 1
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab7\\term2_chysMet_lab7\\Source.cpp"
+Blank lines: 7
+Commnet lines: 0
+Code lines: 122
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab8\\term2_chysMet_lab8\\Header.h"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 10
+"C:\\Users\\roman\\source\\repos\\OOP_lab10\\myarray.h"
+Blank lines: 5
+Commnet lines: 1
+Code lines: 199
+"C:\\Users\\roman\\source\\repos\\OOP_lab11\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab8\\term2_chysMet_lab8\\main.cpp"
+Blank lines: 18
+Commnet lines: 0
+Code lines: 137
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab11-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 45
+Code lines: 129
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab11-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\OOP_lab11\\mainwindow.cpp"
+Blank lines: 18
+Commnet lines: 0
+Code lines: 194
+"C:\\Users\\roman\\source\\repos\\term2_chysMet_lab9\\term2_chysMet_lab9\\main.cpp"
+Blank lines: 15
+Commnet lines: 0
+Code lines: 117
+"C:\\Users\\roman\\source\\repos\\term2_lab2\\term2_lab2\\MyForm.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 10
+"C:\\Users\\roman\\source\\repos\\OOP_lab11\\mainwindow.h"
+Blank lines: 20
+Commnet lines: 1
+Code lines: 30
+"C:\\Users\\roman\\source\\repos\\OOP_lab11\\OOP_lab11\\Main.cpp"
+Blank lines: 12
+Commnet lines: 2
+Code lines: 34
+"C:\\Users\\roman\\source\\repos\\OOP_lab11\\OOP_lab11\\Multimap_deque_process.h"
+Blank lines: 6
+Commnet lines: 0
+Code lines: 7
+"C:\\Users\\roman\\source\\repos\\OOP_lab12\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\OOP_lab12\\mainwindow.cpp"
+Blank lines: 11
+Commnet lines: 0
+Code lines: 167
+"C:\\Users\\roman\\source\\repos\\OOP_lab12\\mainwindow.h"
+Blank lines: 13
+Commnet lines: 1
+Code lines: 24
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab11-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_mainwindow.h"
+Blank lines: 96
+Commnet lines: 6
+Code lines: 254
+"C:\\Users\\roman\\source\\repos\\OOP_lab12\\vyraz.cpp"
+Blank lines: 11
+Commnet lines: 0
+Code lines: 197
+"C:\\Users\\roman\\source\\repos\\OOP_lab12\\vyraz.h"
+Blank lines: 3
+Commnet lines: 1
+Code lines: 32
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab12-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 33
+Code lines: 111
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab12-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\term2_lab2\\term2_lab2\\MyForm.h"
+Blank lines: 9
+Commnet lines: 70
+Code lines: 507
+"C:\\Users\\roman\\source\\repos\\OOP_lab5\\OOP_lab5\\opp_lab5_main.cpp"
+Blank lines: 14
+Commnet lines: 92
+Code lines: 73
+"C:\\Users\\roman\\source\\repos\\term2_lab3\\term2_lab3\\MyForm.cpp"
+Blank lines: 1
+Commnet lines: 0
+Code lines: 10
+"C:\\Users\\roman\\source\\repos\\OOP_lab5_qt\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\OOP_lab5_qt\\mainwindow.cpp"
+Blank lines: 9
+Commnet lines: 0
+Code lines: 57
+"C:\\Users\\roman\\source\\repos\\OOP_lab5_qt\\mainwindow.h"
+Blank lines: 14
+Commnet lines: 1
+Code lines: 24
+"C:\\Users\\roman\\source\\repos\\term2_lab3\\term2_lab3\\MyForm.h"
+Blank lines: 10
+Commnet lines: 28
+Code lines: 82
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab12-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_mainwindow.h"
+Blank lines: 62
+Commnet lines: 6
+Code lines: 187
+"C:\\Users\\roman\\source\\repos\\OOP_lab5_qt\\polynom.cpp"
+Blank lines: 5
+Commnet lines: 3
+Code lines: 210
+"C:\\Users\\roman\\source\\repos\\OOP_lab5_qt\\polynom.h"
+Blank lines: 1
+Commnet lines: 1
+Code lines: 42
+"C:\\Users\\roman\\source\\repos\\OOP_lab5_UI\\OOP_lab5_UI\\MyForm.cpp"
+Blank lines: 1
+Commnet lines: 0
+Code lines: 10
+"C:\\Users\\roman\\source\\repos\\term2_OOP_lab7\\list.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 389
+"C:\\Users\\roman\\source\\repos\\term2_OOP_lab7\\list.h"
+Blank lines: 2
+Commnet lines: 7
+Code lines: 45
+"C:\\Users\\roman\\source\\repos\\term2_OOP_lab7\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\OOP_lab5_UI\\OOP_lab5_UI\\MyForm.h"
+Blank lines: 10
+Commnet lines: 49
+Code lines: 181
+"C:\\Users\\roman\\source\\repos\\term2_OOP_lab7\\mainwindow.cpp"
+Blank lines: 17
+Commnet lines: 0
+Code lines: 82
+"C:\\Users\\roman\\source\\repos\\term2_OOP_lab7\\mainwindow.h"
+Blank lines: 18
+Commnet lines: 1
+Code lines: 29
+"C:\\Users\\roman\\source\\repos\\term2_vipz_lab1\\lab10_main.c"
+Blank lines: 10
+Commnet lines: 0
+Code lines: 96
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab5_qt-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\CMakeFiles\\3.16.0\\CompilerIdCXX\\CMakeCXXCompilerId.cpp"
+Blank lines: 112
+Commnet lines: 51
+Code lines: 488
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab5_qt-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\CMakeFiles\\ShowIncludes\\foo.h"
+Blank lines: 1
+Commnet lines: 0
+Code lines: 0
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab5_qt-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\CMakeFiles\\ShowIncludes\\main.c"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 2
+"C:\\Users\\roman\\source\\repos\\OOP_lab8\\array.cpp"
+Blank lines: 8
+Commnet lines: 0
+Code lines: 486
+"C:\\Users\\roman\\source\\repos\\term2_vipz_lab1\\lab10_source.c"
+Blank lines: 14
+Commnet lines: 0
+Code lines: 303
+"C:\\Users\\roman\\source\\repos\\OOP_lab8\\array.h"
+Blank lines: 4
+Commnet lines: 5
+Code lines: 57
+"C:\\Users\\roman\\source\\repos\\OOP_lab8\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\term2_vipz_lab1\\processStruct.h"
+Blank lines: 5
+Commnet lines: 1
+Code lines: 30
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab5_qt-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\OOP_lab5_qt_autogen\\EWIEGA46WW\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 33
+Code lines: 108
+"C:\\Users\\roman\\source\\repos\\OOP_lab8\\mainwindow.cpp"
+Blank lines: 10
+Commnet lines: 0
+Code lines: 74
+"C:\\Users\\roman\\source\\repos\\OOP_lab8\\mainwindow.h"
+Blank lines: 13
+Commnet lines: 1
+Code lines: 24
+"C:\\Users\\roman\\source\\repos\\term2_vipz_lab3\\lab10_main.c"
+Blank lines: 10
+Commnet lines: 0
+Code lines: 96
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab5_qt-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\OOP_lab5_qt_autogen\\include\\ui_mainwindow.h"
+Blank lines: 60
+Commnet lines: 6
+Code lines: 280
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab5_qt-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\OOP_lab5_qt_autogen\\mocs_compilation.cpp"
+Blank lines: 0
+Commnet lines: 1
+Code lines: 1
+"C:\\Users\\roman\\source\\repos\\OOP_lab9\\deposits.cpp"
+Blank lines: 9
+Commnet lines: 0
+Code lines: 370
+"C:\\Users\\roman\\source\\repos\\term2_vipz_lab3\\lab10_source.c"
+Blank lines: 15
+Commnet lines: 7
+Code lines: 343
+"C:\\Users\\roman\\source\\repos\\term2_vipz_lab3\\processStruct.h"
+Blank lines: 5
+Commnet lines: 1
+Code lines: 30
+"C:\\Users\\roman\\source\\repos\\OOP_lab9\\deposits.h"
+Blank lines: 12
+Commnet lines: 2
+Code lines: 82
+"C:\\Users\\roman\\source\\repos\\OOP_lab9\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 9
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4\\main.cpp"
+Blank lines: 4
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\OOP_lab9\\mainwindow.cpp"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 72
+"C:\\Users\\roman\\source\\repos\\OOP_lab9\\mainwindow.h"
+Blank lines: 7
+Commnet lines: 1
+Code lines: 18
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4\\mainwindow.cpp"
+Blank lines: 9
+Commnet lines: 14
+Code lines: 37
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab8-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 33
+Code lines: 111
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4\\mainwindow.h"
+Blank lines: 8
+Commnet lines: 2
+Code lines: 18
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab8-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\Project1\\Project1\\Source.cpp"
+Blank lines: 21
+Commnet lines: 8
+Code lines: 11
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4\\studentlist.cpp"
+Blank lines: 9
+Commnet lines: 6
+Code lines: 37
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab8-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_mainwindow.h"
+Blank lines: 28
+Commnet lines: 6
+Code lines: 122
+"C:\\Users\\roman\\source\\repos\\Rostyk\\Rostyk\\Source.cpp"
+Blank lines: 12
+Commnet lines: 0
+Code lines: 189
+"C:\\Users\\roman\\source\\repos\\Rostyk_exam\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 6
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4\\studentlist.h"
+Blank lines: 14
+Commnet lines: 6
+Code lines: 21
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab9-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 21
+Code lines: 93
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab9-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4_2\\addnewprofile.cpp"
+Blank lines: 14
+Commnet lines: 0
+Code lines: 253
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4_2\\addnewprofile.h"
+Blank lines: 17
+Commnet lines: 1
+Code lines: 34
+"C:\\Users\\roman\\source\\repos\\softserve_task1\\softserve_task1\\dynamically_sized_list.c"
+Blank lines: 16
+Commnet lines: 24
+Code lines: 206
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4_2\\getlinedialog.cpp"
+Blank lines: 3
+Commnet lines: 0
+Code lines: 28
+"C:\\Users\\roman\\source\\repos\\softserve_task1\\softserve_task1\\dynamically_sized_list.h"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 22
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4_2\\getlinedialog.h"
+Blank lines: 7
+Commnet lines: 1
+Code lines: 17
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4_2\\main.cpp"
+Blank lines: 2
+Commnet lines: 0
+Code lines: 14
+"C:\\Users\\roman\\source\\repos\\build-OOP_lab9-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_mainwindow.h"
+Blank lines: 48
+Commnet lines: 6
+Code lines: 181
+"C:\\Users\\roman\\source\\repos\\softserve_task1\\softserve_task1\\main.c"
+Blank lines: 1
+Commnet lines: 5
+Code lines: 79
+"C:\\Users\\roman\\source\\repos\\build-sudoku_solver-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 12
+Commnet lines: 14
+Code lines: 73
+"C:\\Users\\roman\\source\\repos\\build-sudoku_solver-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\build-sudoku_solver-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_mainwindow.h"
+Blank lines: 12
+Commnet lines: 6
+Code lines: 59
+"C:\\Users\\roman\\source\\repos\\softserve_task1\\softserve_task1\\softserve_it_academy_test1\\dynamically_sized_list.c"
+Blank lines: 14
+Commnet lines: 34
+Code lines: 155
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4_2\\mainwindow.cpp"
+Blank lines: 27
+Commnet lines: 2
+Code lines: 421
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4_2\\mainwindow.h"
+Blank lines: 17
+Commnet lines: 1
+Code lines: 34
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4_2\\studentlist.cpp"
+Blank lines: 13
+Commnet lines: 3
+Code lines: 211
+"C:\\Users\\roman\\source\\repos\\VIPZ_lab4_2\\studentlist.h"
+Blank lines: 6
+Commnet lines: 5
+Code lines: 42
+"C:\\Users\\roman\\source\\repos\\winterPrograming1-3\\1-3\\1_main.c"
+Blank lines: 7
+Commnet lines: 0
+Code lines: 41
+"C:\\Users\\roman\\source\\repos\\winterPrograming1-3\\2\\2_main.c"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 31
+"C:\\Users\\roman\\source\\repos\\winterPrograming1-3\\4\\4_main.c"
+Blank lines: 6
+Commnet lines: 0
+Code lines: 27
+"C:\\Users\\roman\\source\\repos\\winterPrograming1-3\\5\\5_main.c"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 0
+"C:\\Users\\roman\\source\\repos\\winterPrograming1-3\\6\\6_main.c"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 0
+"C:\\Users\\roman\\source\\repos\\winterPrograming1-3\\7\\7_main.c"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 0
+"C:\\Users\\roman\\source\\repos\\build-term2_OOP_lab7-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\CMakeFiles\\3.16.0\\CompilerIdCXX\\CMakeCXXCompilerId.cpp"
+Blank lines: 112
+Commnet lines: 51
+Code lines: 488
+"C:\\Users\\roman\\source\\repos\\build-term2_OOP_lab7-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\CMakeFiles\\ShowIncludes\\foo.h"
+Blank lines: 1
+Commnet lines: 0
+Code lines: 0
+"C:\\Users\\roman\\source\\repos\\build-term2_OOP_lab7-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\CMakeFiles\\ShowIncludes\\main.c"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 2
+"C:\\Users\\roman\\source\\repos\\build-term2_OOP_lab7-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\term2_OOP_lab7_autogen\\EWIEGA46WW\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 43
+Code lines: 122
+"C:\\Users\\roman\\source\\repos\\build-term2_OOP_lab7-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\term2_OOP_lab7_autogen\\include\\ui_mainwindow.h"
+Blank lines: 56
+Commnet lines: 6
+Code lines: 225
+"C:\\Users\\roman\\source\\repos\\build-term2_OOP_lab7-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\term2_OOP_lab7_autogen\\mocs_compilation.cpp"
+Blank lines: 0
+Commnet lines: 1
+Code lines: 1
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 12
+Commnet lines: 14
+Code lines: 73
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\qrc_images.cpp"
+Blank lines: 13
+Commnet lines: 8
+Code lines: 108
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_mainwindow.h"
+Blank lines: 100
+Commnet lines: 12
+Code lines: 532
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_mainwindow_copy.h"
+Blank lines: 100
+Commnet lines: 12
+Code lines: 532
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_addnewprofile.cpp"
+Blank lines: 14
+Commnet lines: 37
+Code lines: 117
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_getlinedialog.cpp"
+Blank lines: 14
+Commnet lines: 19
+Code lines: 91
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 36
+Code lines: 113
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 13
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\moc_window_addnew.cpp"
+Blank lines: 12
+Commnet lines: 14
+Code lines: 73
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\debug\\qrc_resource.cpp"
+Blank lines: 14
+Commnet lines: 35
+Code lines: 470
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_addnewprofile.h"
+Blank lines: 30
+Commnet lines: 6
+Code lines: 248
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_getlinedialog.h"
+Blank lines: 16
+Commnet lines: 6
+Code lines: 119
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_mainwindow.h"
+Blank lines: 12
+Commnet lines: 7
+Code lines: 376
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Debug\\ui_window_addnew.h"
+Blank lines: 12
+Commnet lines: 6
+Code lines: 26
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Release\\release\\moc_addnewprofile.cpp"
+Blank lines: 14
+Commnet lines: 37
+Code lines: 117
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Release\\release\\moc_getlinedialog.cpp"
+Blank lines: 14
+Commnet lines: 19
+Code lines: 91
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Release\\release\\moc_mainwindow.cpp"
+Blank lines: 14
+Commnet lines: 36
+Code lines: 113
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Release\\release\\moc_predefs.h"
+Blank lines: 0
+Commnet lines: 0
+Code lines: 12
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Release\\release\\qrc_resource.cpp"
+Blank lines: 14
+Commnet lines: 35
+Code lines: 470
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Release\\ui_addnewprofile.h"
+Blank lines: 30
+Commnet lines: 6
+Code lines: 248
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Release\\ui_getlinedialog.h"
+Blank lines: 16
+Commnet lines: 6
+Code lines: 119
+"C:\\Users\\roman\\source\\repos\\build-VIPZ_lab4_2-Desktop_x86_windows_msvc2019_pe_64bit_c9a8b0-Release\\ui_mainwindow.h"
+Blank lines: 12
+Commnet lines: 7
+Code lines: 376
+"C:\\Users\\roman\\source\\repos\\checkKR\\checkKR\\Source.cpp"
+Blank lines: 5
+Commnet lines: 0
+Code lines: 83
+"C:\\Users\\roman\\source\\repos\\FirstProgram\\FirstProgram\\MyForm.cpp"
+Blank lines: 1
+Commnet lines: 0
+Code lines: 10
+"C:\\Users\\roman\\source\\repos\\FirstProgram\\FirstProgram\\MyForm.h"
+Blank lines: 7
+Commnet lines: 19
+Code lines: 47
+"C:\\Users\\roman\\source\\repos\\floodfill\\floodfill\\floodfill.c"
+Blank lines: 10
+Commnet lines: 13
+Code lines: 34
+Number of files = 229
+Time = 6015
+Total number of blank lines = 2521
+Total number of comment lines  = 1435
+Total number of lines with code = 20909
